@@ -1,7 +1,7 @@
 # Identification_of_CB2_ligands
 Files deposited for the article "Identification of Novel CB2 Ligands through Virtual Screening and In Vitro Evaluation".
 
-Description of the deposited files:
+Description of the deposited files: \\
 5ZTY_Glide_SP_9.txt - results of Glide SP docking to PDB ID: 5ZTY; compounds with docking score ≤ -9.
 6KPC_Glide_SP_all.txt - results of Glide SP docking to PDB ID: 6KPC; all compounds docked.
 6PT0_MD_1_Glide_SP_all.txt - results of Glide SP docking to CB2 MD model based on PDB ID: 6PT0; all compounds docked.
